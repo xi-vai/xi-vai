@@ -1,6 +1,6 @@
 - i’m darxival
 - i'm interested in computers and coding
-- i’m currently learning cs160 and the CompTIA Tech+ course
+- i’m currently learning nothing
 - i’m looking to collaborate on nothing
 - how to reach me does not need to be here
 - pronouns: prefer they/them, also he/him
