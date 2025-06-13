@@ -2,7 +2,7 @@
 - i'm interested in computers and coding
 - i’m currently learning nothing
 - i’m looking to collaborate on nothing
-- I'm CompTIA Tech+ certified
+- i'm CompTIA Tech+ certified
 - pronouns: prefer they/them, also he/him
 - fun fact: my name is rare enough for me to be @darxival on most platforms
 
