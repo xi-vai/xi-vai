@@ -7,7 +7,7 @@
 - fun fact: my name is rare enough for me to be @darxival on most platforms
 
 alr time for non-default stuff.
-i'm teaching myself css so i can mod discord,
+i was teaching myself css so i could mod discord,
 my small projects will be put here.
 i may also make other things during the next school year;
 i'm learning security through an I.T. internship,
