@@ -3,7 +3,7 @@
 - i’m currently learning CyberSecurity
 - i’m looking to collaborate on nothing
 - i'm CompTIA Tech+ certified
-- pronouns: they/them
+- pronouns: they/them, she/her
 - fun fact: the xi in xivai is pronounced shy
 
 alr time for non-default stuff.
